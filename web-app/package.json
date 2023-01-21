@@ -1,0 +1,14 @@
+{
+    "name": "web-page",
+    "version": "1.0.0",
+    "description": "A simple Node.js web page that shows the current time in Almaty",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "request": "^2.88.2"
+    }
+  }
+  

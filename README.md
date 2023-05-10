@@ -4,7 +4,8 @@ Application shows current time in Almaty with 5 min update rate.
 
 ## Run Application
 ```
-docker-compose up /infrastracture/docker-compose.yaml
+cd .\infrastracture\
+docker-compose up
 ```
 
 ## Video about this project
